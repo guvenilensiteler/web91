@@ -157,6 +157,7 @@
         "sort": null,
         "color": "#efb521",
         "miktar": "₺500",
+        "elmas": "favori-site.webp",
         "promo_code_yok": "Sınırsız çekim anlık %30 discount",
         "slider_img": ""
       },
@@ -355,6 +356,7 @@
         "sort": null,
         "color": "#4857c3",
         "miktar": "₺1.000",
+        "elmas": "favori-site.webp",
         "promo_code_yok": "Sınırsız çekim anlık %30 discount",
         "slider_img": ""
       },
@@ -439,6 +441,7 @@
         "sort": null,
         "color": "#b60d83",
         "miktar": "₺1.000",
+        "elmas": "favori-site.webp",
         "promo_code_yok": "Sınırsız çekim anlık %30 discount",
         "slider_img": ""
       },
@@ -488,6 +491,7 @@
         "sort": null,
         "color": "#f99100",
         "miktar": "₺2.500",
+        "elmas": "favori-site.webp",
         "promo_code_yok": "Sınırsız çekim anlık %30 discount",
         "slider_img": ""
       },
